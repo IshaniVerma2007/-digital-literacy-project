@@ -22,7 +22,6 @@ As a Student Digital Ambassador, this portfolio focuses on spreading awareness a
 
 The project consists of five tasks, each representing a module of digital literacy.
 
----
 
 ## 🎯 Objectives
 
@@ -41,7 +40,7 @@ Created an infographic using Canva that explains:
 * What digital literacy is
 * Safe online practices
 * Professional online behavior
----
+
 
 ### 🔹 Task 2 – Student Digital Portfolio
 
@@ -51,25 +50,25 @@ Set up and updated profiles on:
 * LinkedIn
 * Kaggle
 These platforms help in building a professional identity and showcasing skills.
----
 
+ 
 ### 🔹 Task 3 – Coding & Collaboration Platforms
 
 * Completed a beginner coding challenge on HackerRank
 * Created a Google Form quiz on Digital Literacy Awareness
----
+
 
 ### 🔹 Task 4 – Email Etiquette & Communication
 
 * Drafted two professional emails
 * Created a Social Media Do’s and Don’ts checklist
----
+
 
 ### 🔹 Task 5 – Cybercrime Awareness
 
 * Developed a case study on UPI Fraud
 * Created a prevention checklist for online safety
----
+  
 
 ## 🛠 Tools & Platforms Used
 
@@ -80,7 +79,7 @@ These platforms help in building a professional identity and showcasing skills.
 * HackerRank (Coding Practice)
 * Google Forms (Quiz Creation)
 
----
+
 
 ## 📊 Key Learnings
 
@@ -90,7 +89,7 @@ These platforms help in building a professional identity and showcasing skills.
 * Effective email communication
 * Awareness of cyber threats and prevention methods
 
----
+
 
 ## 🔗 Important Links
 
@@ -98,13 +97,13 @@ These platforms help in building a professional identity and showcasing skills.
 * 🔹 LinkedIn Profile: (Add your link)
 * 🔹 Google Form Quiz: (Add your link)
 
----
+
 
 ## ⚠️ Disclaimer
 
 This project is created for academic purposes as part of the Digital Literacy course. All work and screenshots are original and created by the student.
 
----
+
 
 ## ⭐ Conclusion
 
