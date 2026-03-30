@@ -93,9 +93,10 @@ These platforms help in building a professional identity and showcasing skills.
 
 ## 🔗 Important Links
 
-* 🔹 GitHub Profile: (Add your link)
-* 🔹 LinkedIn Profile: (Add your link)
-* 🔹 Google Form Quiz: (Add your link)
+* 🔹 GitHub Profile: https://github.com/IshaniVerma2007
+* 🔹 LinkedIn Profile: https://www.linkedin.com/in/ishani-verma-32317137b/
+* 🔹 Google Form Quiz: https://forms.gle/2B3mpWwhCz8h2wG57
+
 
 
 
